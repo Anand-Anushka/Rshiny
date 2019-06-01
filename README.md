@@ -12,3 +12,6 @@ shiny
 ggplot2
 
 plotly
+
+## App look 
+<img src="sample.png">
